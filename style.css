@@ -1,0 +1,99 @@
+@font-face{
+    font-family: rayyan;
+    src: url(./SedgwickAveDisplay-Regular.ttf);
+}
+.a{
+    max-width: 1000px;
+    min-width: 200px;
+    /* max-height: 800px; */
+    /* min-height: 1600px; */
+    border: 5px double #b2d7e2 ;
+    background-color: rgb(215, 235, 235);
+
+}
+.b{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.c{
+    font-size: 20px;
+    color: tomato;
+    /* text-indent: 110px; */
+    letter-spacing: 10px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.d{
+    width: 600px;
+    /* height: 100%; */
+    size: 400px;
+    padding-left: 180px;
+    margin: ;
+    border: 10px red;
+    /* background-color: black; */
+}
+img{
+    width: 100%;
+}
+.e::first-letter{
+    color: #ff0000;
+    font-size: 50px;
+
+}
+.f{
+    /* border: 5px  solid tomato; */
+    padding-left: 250px;
+}
+.g{
+    padding-left: 180px;
+    border: 1px solid #cfb7ce;
+    border-left: white;
+    border-right: white;
+    border-top: white;
+    border-bottom: white;
+    text-align: center;
+    /* background-color: #ebcfcf; */
+}
+.h{
+    text-decoration: none;
+    font-family: rayyan;
+    
+}
+.h:hover{
+    text-decoration: underline;
+    background-color: #c9e4ab;
+    font-size: 17px;
+    
+}
+.i{
+    text-decoration: none;
+    font-family: rayyan;
+}
+.i:hover{
+    text-decoration:  underline;
+    background-color: #c9e4ab;
+    font-size: 17px;
+}
+.j{
+    text-decoration: none;
+    font-family: rayyan;
+}
+.j:hover{
+    text-decoration:  underline;
+    background-color: #c9e4ab;
+    font-size: 17px;
+}
+.k{
+    text-decoration: none;
+    font-family: rayyan;
+}
+.k:hover{
+    text-decoration: underline;
+    background-color: #c9e4ab;
+    font-size: 17px;
+}
+.m{
+    overflow: scroll;
+}
